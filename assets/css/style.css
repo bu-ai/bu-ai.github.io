@@ -1395,6 +1395,25 @@ section {
 .contact .social-links {
   padding-bottom: 20px;
 }
+#atag{
+  font-size: 16px;
+  display: inline-block;
+  background: #fff;
+  color: #3498db;
+  line-height: 1;
+  padding: 8px 0;
+  margin-left: 12px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+  border: 1px solid #3498db;
+}
+#atag:hover{
+  background: #3498db;
+  color: #fff;
+}
 
 .contact .social-links a {
   font-size: 18px;
